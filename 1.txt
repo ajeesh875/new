@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-meeerge
-=======
-merge
-merge
->>>>>>> main
+t1
