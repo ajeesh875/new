@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 t1
 t2
 t3
 t4
-=======
-remote edit
->>>>>>> 4ca156769039acb69c6a345fbc1088bf4f14c85e
